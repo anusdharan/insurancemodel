@@ -3,7 +3,7 @@
 
 # Dataset
 
- This dataset is taken from Kaggle. Insurance companies are extremely interested in the prediction of the future. Accurate prediction gives a chance to reduce financial loss for the company. A major cause of increased costs are payment errors made by the insurance companies while processing claims. Furthermore, because of the payment errors, processing the claims again accounts for a significant portion of administrative costs. 
+ This dataset is taken from Kaggle. Insurance companies are extremely interested in the prediction of the future. Accurate prediction gives a chance to reduce financial loss for the company. A major cause of increased costs are payment errors made by the insurance companies while processing claims. Furthermore, because of the payment errors, processing the claims again accounts for a significant portion of administrative costs.The objective is to predict the family medical costs charged by health insurance company. 
  
  
 # Tools & Libraries: -
