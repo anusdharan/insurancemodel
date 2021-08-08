@@ -8,7 +8,7 @@
  
 # Tools & Libraries: -
 
-Python • Jupyter Notebook • Pandas • NumPy • Seaborn • Matplotlib • Plotly   
+Python • Jupyter Notebook • Pandas • NumPy • Seaborn • Matplotlib • Plotly  • Scikit learn,  
 • PyCharm • Flask
 
 # Data Description
